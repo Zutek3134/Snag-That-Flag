@@ -8,6 +8,10 @@
 
 [大事記](https://github.com/ZutekDL/Snag-That-Flag/blob/main/大事記.md)。
 
+## 下載網址
+
+[暫不提供](https://github.com/ZutekDL/Snag-That-Flag/releases)
+
 
 
 ![Snag That Flag](https://github.com/ZutekDL/Snag-That-Flag/blob/main/Icon.png?raw=true)
