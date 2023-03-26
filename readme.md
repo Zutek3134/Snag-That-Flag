@@ -10,7 +10,7 @@
 
 ## 下載網址
 
-[暫不提供](https://github.com/ZutekDL/Snag-That-Flag/releases)
+[暫不提供](https://github.com/ZutekDL/Snag-That-Flag/releases)。
 
 
 
